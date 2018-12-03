@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://https://clojure-data-science-course.github.io' rel='self' type='application/rss+xml'/>
+<title>
+Clojure Data Science Course
+</title>
+<link>
+http://https://clojure-data-science-course.github.io
+</link>
+<description>
+Information and course materials for the clojure data science course running in Tel Aviv
+</description>
+<lastBuildDate>
+Mon, 03 Dec 2018 20:49:11 +0200
+</lastBuildDate>
+<generator>
+clj-rss
+</generator>
+<item>
+<guid>
+http://https://clojure-data-science-course.github.io/posts-output/2018-12-03-hello/
+</guid>
+<link>
+http://https://clojure-data-science-course.github.io/posts-output/2018-12-03-hello/
+</link>
+<title>
+Hello
+</title>
+<description>
+&lt;p&gt;Welcome to the course blog!&lt;/p&gt;
+</description>
+<pubDate>
+Mon, 03 Dec 2018 00:00:00 +0200
+</pubDate>
+</item>
+</channel>
+</rss>
