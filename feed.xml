@@ -12,26 +12,26 @@ http://https://clojure-data-science-course.github.io
 Information and course materials for the clojure data science course running in Tel Aviv
 </description>
 <lastBuildDate>
-Tue, 04 Dec 2018 00:17:46 +0200
+Tue, 04 Dec 2018 00:27:24 +0200
 </lastBuildDate>
 <generator>
 clj-rss
 </generator>
 <item>
 <guid>
-http://https://clojure-data-science-course.github.io/posts-output/2018-12-03-hello/
+http://https://clojure-data-science-course.github.io/posts-output/2018-12-04-hello/
 </guid>
 <link>
-http://https://clojure-data-science-course.github.io/posts-output/2018-12-03-hello/
+http://https://clojure-data-science-course.github.io/posts-output/2018-12-04-hello/
 </link>
 <title>
 Hello
 </title>
 <description>
-&lt;p&gt;Welcome to the course blog!&lt;/p&gt;
+&lt;p&gt;Welcome to the course blog!&lt;/p&gt;&lt;p&gt;Please read carefully into the pages in the navigation bar. Your thoughts and comments will be welcome.&lt;/p&gt;
 </description>
 <pubDate>
-Mon, 03 Dec 2018 00:00:00 +0200
+Tue, 04 Dec 2018 00:00:00 +0200
 </pubDate>
 </item>
 </channel>

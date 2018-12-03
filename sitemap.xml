@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
 <url>
 <loc>
-http://https://clojure-data-science-course.github.ioposts-output/2018-12-03-hello/index.html
+http://https://clojure-data-science-course.github.ioposts-output/2018-12-04-hello/index.html
 </loc>
 <lastmod>
 2018-12-04
@@ -51,6 +51,14 @@ http://https://clojure-data-science-course.github.iopages-output/introduction/in
 <url>
 <loc>
 http://https://clojure-data-science-course.github.iopages-output/software/index.html
+</loc>
+<lastmod>
+2018-12-04
+</lastmod>
+</url>
+<url>
+<loc>
+http://https://clojure-data-science-course.github.iopages-output/contact/index.html
 </loc>
 <lastmod>
 2018-12-04
