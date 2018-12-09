@@ -12,11 +12,28 @@ http://https://clojure-data-science-course.github.io
 Information and course materials for the clojure data science course running in Tel Aviv
 </description>
 <lastBuildDate>
-Tue, 04 Dec 2018 00:38:26 +0200
+Mon, 10 Dec 2018 00:42:49 +0200
 </lastBuildDate>
 <generator>
 clj-rss
 </generator>
+<item>
+<guid>
+http://https://clojure-data-science-course.github.io/posts-output/2018-12-05-homework-for-the-first-meeting/
+</guid>
+<link>
+http://https://clojure-data-science-course.github.io/posts-output/2018-12-05-homework-for-the-first-meeting/
+</link>
+<title>
+Homework for the First Meeting
+</title>
+<description>
+&lt;p&gt;Thanks and greetings to everybody who has joined the course!&lt;/p&gt;&lt;p&gt;On the first meetings of the two groups we met two magnificent teams of people.&lt;/p&gt;&lt;p&gt;The beginning may have been challenging to some of us &amp;ndash; coming from several different mindsets and realizing that together through the conversation. Let us remember that confusion is part of what we expect to experience when we encounter new ideas. Thanks, everybody, for keeping a warm and kind dialogue through the meetings.&lt;/p&gt;&lt;p&gt;Soon we will upload the materials from the meetings.&lt;/p&gt;&lt;p&gt;To prepare for the next meetings, we suggest the following.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Install Gorilla REPL and play with it. See the &lt;a href='../../pages-output/software/'&gt;Software&lt;/a&gt; section.&lt;/li&gt;&lt;li&gt;Read &lt;a href='http://viewer.gorilla-repl.org/view.html?source=github&amp;user=lspector&amp;repo=clojinc&amp;path=worksheet.clj'&gt;clojinc&lt;/a&gt; by Lee Spector. Copy some parts to your Gorilla REPL, and play.&lt;/li&gt;&lt;li&gt;Choose 5 problems from &lt;a href='http://www.4clojure.com/problems'&gt;4Clojure&lt;/a&gt;, and try to solve them. If you do something interesting, share &lt;a href='https://clojurians.zulipchat.com/#narrow/stream/152323-data-science-course-tlv'&gt;at our Zulip stream&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;Start reading chapters 1,3,4,5,(6 if you wish),9,11,12 at Daniel Higginbotham's &lt;a href='https://www.braveclojure.com/clojure-for-the-brave-and-true/'&gt;Clojure for the Brave and True&lt;/a&gt;. Copy some parts to your Gorilla REPL, and play. It is ok if you do not complete this before the next meeting.&lt;/li&gt;&lt;li&gt;Watch some &lt;a href='http://gorilla-repl.org/videos.html'&gt;videos&lt;/a&gt; about Gorilla REPL.&lt;/li&gt;&lt;li&gt;Let us talk, to share our thoughts.&lt;/li&gt;&lt;/ol&gt;
+</description>
+<pubDate>
+Wed, 05 Dec 2018 00:00:00 +0200
+</pubDate>
+</item>
 <item>
 <guid>
 http://https://clojure-data-science-course.github.io/posts-output/2018-12-04-hello/

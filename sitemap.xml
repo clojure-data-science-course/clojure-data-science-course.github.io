@@ -2,10 +2,18 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
 <url>
 <loc>
+http://https://clojure-data-science-course.github.ioposts-output/2018-12-05-homework-for-the-first-meeting/index.html
+</loc>
+<lastmod>
+2018-12-10
+</lastmod>
+</url>
+<url>
+<loc>
 http://https://clojure-data-science-course.github.ioposts-output/2018-12-04-hello/index.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -13,7 +21,7 @@ http://https://clojure-data-science-course.github.ioposts-output/2018-12-04-hell
 http://https://clojure-data-science-course.github.ioindex.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -21,7 +29,7 @@ http://https://clojure-data-science-course.github.ioindex.html
 http://https://clojure-data-science-course.github.io404.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -29,7 +37,7 @@ http://https://clojure-data-science-course.github.io404.html
 http://https://clojure-data-science-course.github.ioauthors-output/daslu/index.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -37,7 +45,7 @@ http://https://clojure-data-science-course.github.ioauthors-output/daslu/index.h
 http://https://clojure-data-science-course.github.iotags/index.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -45,7 +53,7 @@ http://https://clojure-data-science-course.github.iotags/index.html
 http://https://clojure-data-science-course.github.iopages-output/suggested-projects/index.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -53,7 +61,7 @@ http://https://clojure-data-science-course.github.iopages-output/suggested-proje
 http://https://clojure-data-science-course.github.iopages-output/introduction/index.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -61,7 +69,7 @@ http://https://clojure-data-science-course.github.iopages-output/introduction/in
 http://https://clojure-data-science-course.github.iopages-output/class-materials/index.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -69,7 +77,7 @@ http://https://clojure-data-science-course.github.iopages-output/class-materials
 http://https://clojure-data-science-course.github.iopages-output/software/index.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -77,7 +85,7 @@ http://https://clojure-data-science-course.github.iopages-output/software/index.
 http://https://clojure-data-science-course.github.iopages-output/contact/index.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -85,7 +93,7 @@ http://https://clojure-data-science-course.github.iopages-output/contact/index.h
 http://https://clojure-data-science-course.github.iopages-output/course-information/index.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -93,7 +101,7 @@ http://https://clojure-data-science-course.github.iopages-output/course-informat
 http://https://clojure-data-science-course.github.iopages-output/recommended-reading/index.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -101,7 +109,7 @@ http://https://clojure-data-science-course.github.iopages-output/recommended-rea
 http://https://clojure-data-science-course.github.iopages-output/homework/index.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 <url>
@@ -109,7 +117,7 @@ http://https://clojure-data-science-course.github.iopages-output/homework/index.
 http://https://clojure-data-science-course.github.ioarchives/index.html
 </loc>
 <lastmod>
-2018-12-04
+2018-12-10
 </lastmod>
 </url>
 </urlset>
