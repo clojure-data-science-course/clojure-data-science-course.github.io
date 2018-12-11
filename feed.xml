@@ -12,11 +12,28 @@ http://https://clojure-data-science-course.github.io
 Information and course materials for the clojure data science course running in Tel Aviv
 </description>
 <lastBuildDate>
-Mon, 10 Dec 2018 13:10:03 +0200
+Tue, 11 Dec 2018 09:58:36 +0200
 </lastBuildDate>
 <generator>
 clj-rss
 </generator>
+<item>
+<guid>
+http://https://clojure-data-science-course.github.io/posts-output/2018-12-11-towards-the-second-meeting/
+</guid>
+<link>
+http://https://clojure-data-science-course.github.io/posts-output/2018-12-11-towards-the-second-meeting/
+</link>
+<title>
+Towards the Second Meeting
+</title>
+<description>
+&lt;p&gt;Next week we will have the second meeting for the two groups. This time, it will be about &lt;strong&gt;machine learning&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Group A&lt;/strong&gt; - clojure for data scientists - &lt;a href='https://www.meetup.com/Clojure-Israel/events/257088858/'&gt;Meeting A2&lt;/a&gt; - Dec 16th 2018d&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Group B&lt;/strong&gt; - data science for clojurians - &lt;a href='https://www.meetup.com/Clojure-Israel/events/257089002/'&gt;Meeting B2&lt;/a&gt; - Dec 19th 2018&lt;/p&gt;&lt;h3 id=&quot;preparing&amp;#95;for&amp;#95;the&amp;#95;meeting&quot;&gt;Preparing for the meeting&lt;/h3&gt;&lt;p&gt;If you like to play during the meeting, it is recommended to come with a laptop, after installing Git, Java &amp; Leiningen. It is also recommended to play at home with Gorilla-REPL, and get used to it.&lt;/p&gt;&lt;p&gt;See the &lt;a href='../../pages-output/software/'&gt;Software&lt;/a&gt; section for details, and please tell if you have any trouble installing anything.&lt;/p&gt;&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;&lt;h4 id=&quot;backround&quot;&gt;Backround&lt;/h4&gt;&lt;p&gt;On the first hour we will have some background material.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;On group A, we will continue the introduction to the language - you can skip it if you are a clojurian.&lt;/li&gt;&lt;li&gt;On group B, Alik Peltinovitch will give a general introduction to machine learning - you can skip it if you are an experienced data scientist.&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&quot;demo&quot;&gt;Demo&lt;/h4&gt;&lt;p&gt;On the main part of the meeting, we will solve together a practical machine learning problem in clojure.&lt;/p&gt;&lt;h4 id=&quot;would&amp;#95;you&amp;#95;like&amp;#95;to&amp;#95;talk&amp;#95;about&amp;#95;anything?&quot;&gt;Would you like to talk about anything?&lt;/h4&gt;&lt;p&gt;Some of you have already started looking into personal projects. Maybe wish to share your thoughts with the group. Or maybe you saw some interesting library, or had some question you were curious about. This is a great opportunity to share with the group.&lt;/p&gt;&lt;p&gt;Let us discuss it before the meeting, so we can adjust the timing a little bit.&lt;/p&gt;&lt;h4 id=&quot;discussion&quot;&gt;Discussion&lt;/h4&gt;&lt;p&gt;Towards, we will discuss our plans for the next meetings.&lt;/p&gt;
+</description>
+<pubDate>
+Tue, 11 Dec 2018 00:00:00 +0200
+</pubDate>
+</item>
 <item>
 <guid>
 http://https://clojure-data-science-course.github.io/posts-output/2018-12-05-homework-for-the-first-meeting/
