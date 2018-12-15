@@ -12,11 +12,28 @@ http://https://clojure-data-science-course.github.io
 Information and course materials for the clojure data science course running in Tel Aviv
 </description>
 <lastBuildDate>
-Fri, 14 Dec 2018 01:10:32 +0200
+Sat, 15 Dec 2018 02:37:40 +0200
 </lastBuildDate>
 <generator>
 clj-rss
 </generator>
+<item>
+<guid>
+http://https://clojure-data-science-course.github.io/posts-output/2018-12-15-notes-from-the-first-meeting/
+</guid>
+<link>
+http://https://clojure-data-science-course.github.io/posts-output/2018-12-15-notes-from-the-first-meeting/
+</link>
+<title>
+Notes from the First Meeting
+</title>
+<description>
+&lt;p&gt;On the first meetings of the course, we introduced ourselves and had some light introduction.&lt;/p&gt;&lt;h3 id=&quot;&lt;a href='https://www.meetup.com/Clojure-Israel/events/255927870/'&gt;Meeting A1&lt;/a&gt;&amp;#95;-&amp;#95;nov&amp;#95;25th&amp;#95;2018&quot;&gt;&lt;a href='https://www.meetup.com/Clojure-Israel/events/255927870/'&gt;Meeting A1&lt;/a&gt; - Nov 25th 2018&lt;/h3&gt;&lt;p&gt;This was the first meeting of &lt;strong&gt;Group A&lt;/strong&gt; - clojure for data scientists.&lt;/p&gt;&lt;p&gt;We began with a broad introduction to Clojure by Matan Safriel. You can find his presentation &lt;a href='https://docs.google.com/presentation/d/1kJHsDoX6hDlocW7XP-lNhtjDbtED0E7tjgss8QaXdUE/edit#slide=id.g4949e067d5_0_1'&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Then everybody introduced themselves, and we discussed our &lt;a href='http://htmlpreview.github.io/?https://github.com/clojure-data-science-course/talks/blob/master/talk1/talk.html'&gt;wishes, challanges and goals&lt;/a&gt; for the course.&lt;/p&gt;&lt;p&gt;We continued to play a little with Clojure, and then looked into some use case example - scraping data from a wikipedia page, and visualizing the results. &lt;/p&gt;&lt;p&gt;We used Jupyter for the example, but after the meeting we decided to shift to Gorilla REPL as the main tool for the first talks. Thus, here is the &lt;a href='http://viewer.gorilla-repl.org/view.html?source=github&amp;user=clojure-data-science-course&amp;repo=examples&amp;path=src/examples/scraping_wikipedia.clj'&gt;wikipedia scraping example&lt;/a&gt;, translated into a Gorilla notebook (with some minor changes).&lt;/p&gt;&lt;p&gt;During the course we will create more of these example notebooks &amp;ndash; you can look them up at the &lt;a href='https://github.com/clojure-data-science-course/examples'&gt;example github repo&lt;/a&gt;.&lt;/p&gt;&lt;h3 id=&quot;&lt;a href='https://www.meetup.com/Clojure-Israel/events/256159018/'&gt;Meeting B1&lt;/a&gt;&amp;#95;-&amp;#95;nov&amp;#95;28th&amp;#95;2018&quot;&gt;&lt;a href='https://www.meetup.com/Clojure-Israel/events/256159018/'&gt;Meeting B1&lt;/a&gt; - Nov 28th 2018&lt;/h3&gt;&lt;p&gt;This was the first meeting of &lt;strong&gt; Group B&lt;/strong&gt; - data science for clojurians.&lt;/p&gt;&lt;p&gt;The meeting began with a light introduction for Clojure, and then everybody introduced themselves.&lt;/p&gt;&lt;p&gt;Then we continued in a similar manner to the other group's meeting, with some less attention to the example though.&lt;/p&gt;&lt;p&gt;At the end, we had some overview of some relevant clojure libraries and topics that we may dive into during the course. See  the &lt;a href='http://htmlpreview.github.io/?https://github.com/clojure-data-science-course/talks/blob/master/talk1/talk.html'&gt;presentation&lt;/a&gt;.&lt;/p&gt;
+</description>
+<pubDate>
+Sat, 15 Dec 2018 00:00:00 +0200
+</pubDate>
+</item>
 <item>
 <guid>
 http://https://clojure-data-science-course.github.io/posts-output/2018-12-11-towards-the-second-meeting/
