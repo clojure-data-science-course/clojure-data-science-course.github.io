@@ -2,8 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title>Clojure Data Science Course: Projects</title>
-    <link rel="canonical" href="http://https://clojure-data-science-course.github.io/pages-output/projects/">
+    <title>Clojure Data Science Course: Notes from the Second Meeting</title>
+    <link rel="canonical" href="http://https://clojure-data-science-course.github.io/posts-output/2018-12-27-notes-from-the-second-meeting/">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="//fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700" rel="stylesheet"
           type="text/css">
@@ -68,7 +68,7 @@
                 </li>
                 
                 <li
-                     class="active" >
+                    >
                     <a href="/pages-output/projects/">Projects</a>
                 </li>
                 
@@ -91,24 +91,30 @@
         <div class="col-lg-9">
             <div id="content">
                 
-<div id="custom-page">
-    <div id="page-header">
-        <h2>Projects</h2>
+<div id="post">
+    <div class="post-header">
+    <div id="post-meta" class="row">
+        <div class="col-lg-6">December 27, 2018</div>
+        
     </div>
-    <ol class="content"><li><a href="#active_projects">Active Projects</a></li><ol><li><a href="#researching_the_ecosystem_of_clojure_libraries">Researching the ecosystem of clojure libraries</a></li><li><a href="#improving_a_library_for_tabular_data">Improving a library for tabular data</a></li><li><a href="#creating_visualization_tools_like_r&apos;s_htmlwidgets">Creating visualization tools like R's htmlwidgets</a></li><li><a href="#extending_gorilla-repl">Extending Gorilla-REPL</a></li></ol><li><a href="#suggested_projects">Suggested Projects</a></li><ol><li><a href="#probabilistic_programming">Probabilistic programming</a></li><ol><li><a href="#&lt;a href=&apos;../../posts-output/2018-12-15-suggested-project-probabilistic-programming-examples/&apos;&gt;Probabilistic Programming Examples&lt;/a&gt;"><a href="../../posts-output/2018-12-15-suggested-project-probabilistic-programming-examples/">Probabilistic Programming Examples</a></a></li><li><a href="#&lt;a href=&apos;../../posts-output/2018-12-23-suggested-project-probabilistic-programming-with-rainier-and-scala/&apos;&gt;Probabilistic Programming With Rainier and Scala&lt;/a&gt;"><a href="../../posts-output/2018-12-23-suggested-project-probabilistic-programming-with-rainier-and-scala/">Probabilistic Programming With Rainier and Scala</a></a></li></ol><li><a href="#&lt;a href=&apos;../../posts-output/2018-12-15-suggested-project-deep-neural-networks/&apos;&gt;Deep Neural Networks&lt;/a&gt;"><a href="../../posts-output/2018-12-15-suggested-project-deep-neural-networks/">Deep Neural Networks</a></a></li><li><a href="#[r_interop]">[R interop]</a></li></ol></ol>
-    <p><strong>This page will update gradually. Stay tuned.</strong></p><p>We will work in small teams of 1-3 people, and take on small projects that match each person's special interests and background.</p><h2 id="active&#95;projects">Active Projects</h2><p><strong> Note that you may still be welcome to join one of these teams. </strong></p><h3 id="researching&#95;the&#95;ecosystem&#95;of&#95;clojure&#95;libraries">Researching the ecosystem of clojure libraries</h3><p>Team: <strong>Dudu Peer</strong></p><ul><li>Web-scraping Github and Clojars</li><li>Using <a href='https://github.com/nathanmarz/specter'>Specter</a> for work with nested data structures</li><li>More details soon</li></ul><h3 id="improving&#95;a&#95;library&#95;for&#95;tabular&#95;data">Improving a library for tabular data</h3><p>Team: <strong>Amit Ramon</strong> and <strong>Daniel Slutsky</strong></p><ul><li>Studying existing clojure libraries for tabular data structures (which are sometimes called data-frames in the data science context)</li><li>Planning to extend one of those libraries to allow for more expressive power and efficiency</li></ul><h3 id="creating&#95;visualization&#95;tools&#95;like&#95;r's&#95;htmlwidgets">Creating visualization tools like R's htmlwidgets</h3><p>Team: <strong>Rohi Ulecia</strong></p><ul><li>Researching possible ways to do data visualization in Clojure, inspired by R's htmlwidgets.</li></ul><h3 id="extending&#95;gorilla-repl">Extending Gorilla-REPL</h3><p>Team: <strong>Michael Katz</strong></p><ul><li>Researching Gorilla REPL and the Vega visualization library</li><li>Considering some possible ways to estend and improve them</li></ul><h2 id="suggested&#95;projects">Suggested Projects</h2><h3 id="probabilistic&#95;programming">Probabilistic programming</h3><h4 id="<a href='../../posts-output/2018-12-15-suggested-project-probabilistic-programming-examples/'>Probabilistic Programming Examples</a>"><a href='../../posts-output/2018-12-15-suggested-project-probabilistic-programming-examples/'>Probabilistic Programming Examples</a></h4><h4 id="<a href='../../posts-output/2018-12-23-suggested-project-probabilistic-programming-with-rainier-and-scala/'>Probabilistic Programming With Rainier and Scala</a>"><a href='../../posts-output/2018-12-23-suggested-project-probabilistic-programming-with-rainier-and-scala/'>Probabilistic Programming With Rainier and Scala</a></h4><h3 id="<a href='../../posts-output/2018-12-15-suggested-project-deep-neural-networks/'>Deep Neural Networks</a>"><a href='../../posts-output/2018-12-15-suggested-project-deep-neural-networks/'>Deep Neural Networks</a></h3><h3 id="[r&#95;interop]">[R interop]</h3>
+    <h2>Notes from the Second Meeting</h2>
+</div>
+<div>
+    
+    <p>On the second pair of meetings, we learned some basic machine learning.</p><h3 id="<a href='https://www.meetup.com/Clojure-Israel/events/257088858/'>Meeting A2</a>&#95;-&#95;dec&#95;16th&#95;2018"><a href='https://www.meetup.com/Clojure-Israel/events/257088858/'>Meeting A2</a> - Dec 16th 2018</h3><p>This was the second meeting of <strong>Group A</strong> - clojure for data scientists.</p><p>We introduced <a href='http://gorilla-repl.org/'>Gorilla REPL</a>, had some review of data structures and functions and introduced some topics like <a href='https://clojure.org/reference/java_interop'>Java-interop</a>, working with Java arrays, <a href='https://clojuredocs.org/clojure.core/memoize'>memoize</a> and <a href='https://clojuredocs.org/clojure.core/delay'>delay</a>.</p><p>Then, we did short demo of machine learning on dummy data with regression trees and random forests.</p><p>These <a href='http://viewer.gorilla-repl.org/view.html?source=github&user=clojure-data-science-course&repo=examples&path=src/examples/basic_machine_learning.clj'>notes</a> are close to what we did, with some adjustments for the sake of presentation.</p><p>🌺 Special thanks to Michael Feinstein, Ella Bekerman-Vizel, Alon Vizel and Alik Peltinovich, who helped to make these notes a little better. 🌺</p><h3 id="<a href='https://www.meetup.com/Clojure-Israel/events/257089002/'>Meeting B2</a>&#95;-&#95;dec&#95;19th&#95;2018"><a href='https://www.meetup.com/Clojure-Israel/events/257089002/'>Meeting B2</a> - Dec 19th 2018</h3><p>This was the second meeting of <strong>Group B</strong> - data science for clojurians.</p><p>It began with a broad introductory talk by Alik Peltinovitch about machine learning. You can find his presentation <a href='https://drive.google.com/file/d/1irOk_LwF-BEk5G8p7Pe3DFGaC238Iqfv/view?usp=sharing'>here</a>.</p><p>After some discussion, we continued with an overview of some of the workshop's projects.</p><p>Dudu Peer talked about his <a href='../../pages-output/projects/#researching_the_ecosystem_of_clojure_libraries'>project</a> of analysing the clojure ecosystem by web-scraping github and clojars, using <a href='https://github.com/nathanmarz/specter'>Specter</a> as a main tool.</p><p>Amit Ramon explained a bit about the <a href='../../pages-output/projects/#improving_a_library_for_tabular_data'>project</a> of improving the existing libraries for tabular data strucutres. </p><p>Then, Amnon Heiman suggested a <a href='https://docs.google.com/presentation/d/1iAa37HYOLNZchHAm69nQTHjYZlfFGcezG0SNlf_Iegs/edit?usp=sharing'>project idea</a> of extending <a href='https://prometheus.io/'>Prometheus.io</a> with a Clojure-based AI-layer.</p><p>On the last hour, we did a demonstration of machine learning with regression trees - similar to the one on the first group.</p>
+</div>
+
 
     <div id="prev-next">
         
-        <a href="/pages-output/flymd/">&laquo; Projects</a>
         
-        
-        ||
-        
-        
-        <a href="/pages-output/contact/">Contact &raquo;</a>
+        <a class="right" href="/posts-output/2018-12-23-suggested-project-probabilistic-programming-with-rainier-and-scala/">Suggested Project: Probabilistic Programming With Rainier and Scala &raquo;</a>
         
     </div>
+
+    
+
+
 </div>
 
             </div>
